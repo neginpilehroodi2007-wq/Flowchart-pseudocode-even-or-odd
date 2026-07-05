@@ -33,7 +33,7 @@ Check whether a number is even or odd.
 
 ## Pseudocode
 
-
+```
 Start the program
 
 Prompt the user to enter a number
@@ -44,3 +44,4 @@ Else
     Print "Odd number"
 
 End the program
+```
