@@ -1,0 +1,10 @@
+Start the program
+
+prompt the user to enter a number
+
+if the number is divisible by 2:
+   print"even number"
+else:
+   print "odd number"
+
+End the program
